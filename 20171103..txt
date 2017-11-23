@@ -1,0 +1,35 @@
+1.http://www.meckodo.com/#!/article/5886157b6d67c807096f6c8c
+
+2.https://github.com/bailicangdu/vue2-happyfri
+
+3.https://github.com/liangxiaojuan/vue-todos 
+
+
+
+
+4.https://github.com/tgxhx/vue-reader   //参考
+
+cnodejs  vue+axios/vue-resourse+vuex+vue-router 
+
+数据用mock
+
+周天：
+
+1.计划： 自己的问题， 以及这段时间的安排   --- 文档
+2.简历   --- 抄给我
+3.毕业项目选题，项目结构  -- 文档
+
+
+8点之前
+
+
+
+created: 数据加载完调用
+
+mounted：页面渲染完调用的， 数据挂载到实例之后调用的
+
+
+axios： https://www.kancloud.cn/yunye/axios/234845
+
+
+跨域：https://segmentfault.com/a/1190000008629361

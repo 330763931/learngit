@@ -1,0 +1,21 @@
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+<style>
+@media screen and (min-width:1000px) and (max-width:1440px) {}
+@media screen and (max-width:999px) {}
+@media screen and (min-width:768px) and (max-width:999px) {} //平板
+@media screen and (max-width:767px) {}
+@media screen and (max-width:480px) {} //手机
+@media screen and (max-width:360px) {}
+@media screen and (max-width:320px) {}
+
+------------------------------------------------------------------------------------
+
+@media screen and (min-width:768px) {}
+
+@media screen and (max-width:480px) {} 
+
+</style>
+
+
+注意：宽度尽量用百分比，尽量不要给div高度！！！（用内容撑开）
