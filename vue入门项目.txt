@@ -1,0 +1,27 @@
+1.http://www.meckodo.com/#!/article/5886157b6d67c807096f6c8c
+
+2.https://github.com/bailicangdu/vue2-happyfri
+
+3.https://github.com/liangxiaojuan/vue-todos 
+
+
+
+
+4.https://github.com/tgxhx/vue-reader   //参考
+
+cnodejs  vue+axios/vue-resourse+vuex+vue-router 
+
+数据用mock
+
+5.https://github.com/hua1995116/musiccloudWebapp //网易云
+技术栈
+
+vue+vue-router（核心框架）
+better-scroll（使移动端滑动体验更加流畅）
+vue-lazyload（用户图片懒加载）
+nprogress（用于加载过渡）
+axios（请求）
+6、https://walleeeee.github.io/daily-zhihu/#/ //知乎
+7、http://element.eleme.io/#/zh-CN/component/form
+8、http://www.theskiptapp.com/\\bootstrap
+9、http://www.meweidea.com/
