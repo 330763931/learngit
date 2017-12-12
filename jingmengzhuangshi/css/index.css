@@ -117,6 +117,11 @@ a.navbar-brand{
 .red{
 	color: red;
 }
+span.font-size{
+	display: block;
+	font-size: 20px;
+	cursor: pointer;
+}
 .SecKill_list li{
 	float: left;
 	margin-left: 20px;
@@ -214,9 +219,10 @@ a.navbar-brand{
 }
 .cate{
     float: left;
-    height: 100%;
+   	height: 482px;
     width: 190px;
     margin-right: 10px;
+    position: relative;
 }
 .classify{
 	
@@ -252,6 +258,7 @@ a.navbar-brand{
 }
 .cate_menu{
 	background: rgba(0, 0, 0, 0.5);
+	height: 439px;
 }
 .cate_menu li:hover{
 	background-color: #0E0E0E;
@@ -263,14 +270,14 @@ a.navbar-brand{
 }
 /*分类表格展示*/
 .cate_part {
-    /*display: none;*/
     padding: 20px 0 10px;
 }
 .cate_pop {
-    position: relative;
+    position: absolute;
     left: 190px;
-    top: -452px;
+    top: 0;
     width: 998px;
+    display: none;
     min-height: 478px;
     border: 1px solid #f7f7f7;
     background-color: #f7f7f7;
@@ -300,16 +307,15 @@ a.navbar-brand{
     overflow: hidden;
     padding: 10px 0 0 20px;
 }
-.date1{
+.date{
     position: relative;
     padding-left: 80px;
 }
 .date_dt {
     overflow: hidden;
     position: absolute;
-    left: 0;
-    top: 9px;
-    width: 70px;
+    left: -8px;
+    top: 10px;
     text-align: right;
     font-weight: 700;
     white-space: nowrap;
@@ -331,8 +337,8 @@ a.navbar-brand{
     white-space: nowrap;
 }
 .cate_part_col2 {
-    float: left;
-    width: 198px;
+    float: right;
+   
 }
 .cate_brand {
     margin: auto;
@@ -346,4 +352,37 @@ a.navbar-brand{
     height: 35px;
     margin: 0 0 1px 1px;
     background-color: #e7e7e7;
+}
+#drafting {
+    width: 880px;
+    height: 480px;
+    cursor: move;
+    position: absolute;
+    margin-left: 190px;
+}
+
+#cool {
+    width: 10px;
+    height: 10px;
+    overflow: hidden;
+    cursor: se-resize;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.carousel{
+	height: 100%;
+}
+/*广告*/
+.ment{
+	height: 150px;
+    background-color: #16191682;
+}
+.advert{
+	width: 161px;
+    float: right;
+}
+.ment2 {
+	margin-top: 15px;
+    margin-bottom: 15px;
 }
