@@ -448,6 +448,7 @@ span.font-size{
 .second_ul{
 	color: #999;
     width: 6000px;
+    position: relative;
 }
 .second_li{
 	float: left;
@@ -482,6 +483,9 @@ span.font-size{
 .second_mate {
 	margin-top: 30px;
 	margin-bottom: 30px;
+}
+li.active{
+	background-color: red;
 }
 .item_name{
 	color: #999;
@@ -545,6 +549,7 @@ span.font-size{
     position: absolute;
     left: 0;
     top: 0;
+    display: none;
 }
 .sk_special {
     position: relative;
@@ -555,6 +560,7 @@ span.font-size{
 .special_item, .special_list {
     position: relative;
     width: 180px;
+   
     height: 225px;
     bottom: -10px;
 }
@@ -671,6 +677,7 @@ span.font-size{
 .center_buttom_l{
 	background: #fff !important;
 	padding-top: 8px;
+	display: none;
 	position: absolute;
 }
 .sup_page {
